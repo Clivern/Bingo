@@ -2,7 +2,7 @@ repo_name: Clivern/Bingo
 report_id: a9a019efe910c49a7f1c78bddb26752a
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-21T15:26:50+00:00'
+timestamp: '2024-01-05T08:18:57+00:00'
 requested_by: Clivern
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/Clivern/Bingo
   detection_source: Repo Metadata
 - name: Twig
   description: A flexible, fast, and secure template engine
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1642/default_3debd3a9a6d757c011130c7a9626e7c3bd8be945.png
+  detection_source_url: https://github.com/Clivern/Bingo/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Clivern
   last_updated_on: 2017-07-15 11:26:05.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Clivern/Bingo
   detection_source: Repo Metadata
 - name: PHPUnit
   description: Testing framework for PHP
@@ -47,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/Clivern/Bingo/blob/master/composer.json
   detection_source: composer.json
   last_updated_by: Clivern
   last_updated_on: 2017-07-15 11:26:05.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/Clivern/Bingo/blob/master/web/robots.txt
   detection_source: web/robots.txt
   last_updated_by: Clivern
   last_updated_on: 2017-07-15 11:26:05.000000000 Z
